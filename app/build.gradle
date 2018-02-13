@@ -50,6 +50,8 @@ dependencies {
     kapt deps.dagger.android_support_compiler
 
     implementation 'com.github.arimorty:floatingsearchview:2.1.1'
+    implementation 'io.mattcarroll.hover:hover:0.9.8'
+    implementation 'com.github.recruit-lifestyle:FloatingView:2.2.4'
 
 
 

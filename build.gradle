@@ -6,6 +6,9 @@ buildscript {
         classpath deps.android_gradle_plugin
         classpath deps.kotlin.plugin
     }
+    repositories {
+        google()
+    }
 }
 
 allprojects {
@@ -14,4 +17,8 @@ allprojects {
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+
+repositories {
+    google()
 }

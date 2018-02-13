@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="io.mattcarroll.hover:hover-0.9.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hover-0.9.8.aar/3e202765d4afc06702f407f6243c84ac/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hover-0.9.8.aar/3e202765d4afc06702f407f6243c84ac/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.mattcarroll.hover/hover/0.9.8/da7d4e6a0e829b1aa089111b40369581f0fdfaed/hover-0.9.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
